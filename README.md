@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [1603-design-parking-system](https://github.com/RajsekharNandi/dsaa/tree/master/1603-design-parking-system) |
 | [1656-design-an-ordered-stream](https://github.com/RajsekharNandi/dsaa/tree/master/1656-design-an-ordered-stream) |
 ## Data Stream
 |  |
@@ -26,4 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0771-jewels-and-stones](https://github.com/RajsekharNandi/dsaa/tree/master/0771-jewels-and-stones) |
+## Simulation
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/RajsekharNandi/dsaa/tree/master/1603-design-parking-system) |
+## Counting
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/RajsekharNandi/dsaa/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
