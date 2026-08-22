@@ -17,11 +17,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0933-number-of-recent-calls](https://github.com/RajsekharNandi/dsaa/tree/master/0933-number-of-recent-calls) |
 | [1603-design-parking-system](https://github.com/RajsekharNandi/dsaa/tree/master/1603-design-parking-system) |
 | [1656-design-an-ordered-stream](https://github.com/RajsekharNandi/dsaa/tree/master/1656-design-an-ordered-stream) |
 ## Data Stream
 |  |
 | ------- |
+| [0933-number-of-recent-calls](https://github.com/RajsekharNandi/dsaa/tree/master/0933-number-of-recent-calls) |
 | [1656-design-an-ordered-stream](https://github.com/RajsekharNandi/dsaa/tree/master/1656-design-an-ordered-stream) |
 ## String
 |  |
@@ -35,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/RajsekharNandi/dsaa/tree/master/1603-design-parking-system) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/RajsekharNandi/dsaa/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
