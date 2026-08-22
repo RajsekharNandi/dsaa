@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0771-jewels-and-stones](https://github.com/RajsekharNandi/dsaa/tree/master/0771-jewels-and-stones) |
 | [1656-design-an-ordered-stream](https://github.com/RajsekharNandi/dsaa/tree/master/1656-design-an-ordered-stream) |
 ## Design
 |  |
@@ -21,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1656-design-an-ordered-stream](https://github.com/RajsekharNandi/dsaa/tree/master/1656-design-an-ordered-stream) |
+## String
+|  |
+| ------- |
+| [0771-jewels-and-stones](https://github.com/RajsekharNandi/dsaa/tree/master/0771-jewels-and-stones) |
 <!---LeetCode Topics End-->
