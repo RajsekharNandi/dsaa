@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/RajsekharNandi/dsaa/tree/master/0486-predict-the-winner) |
+| [1927-sum-game](https://github.com/RajsekharNandi/dsaa/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/RajsekharNandi/dsaa/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Array
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0771-jewels-and-stones](https://github.com/RajsekharNandi/dsaa/tree/master/0771-jewels-and-stones) |
+| [1927-sum-game](https://github.com/RajsekharNandi/dsaa/tree/master/1927-sum-game) |
 ## Simulation
 |  |
 | ------- |
@@ -59,8 +61,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/RajsekharNandi/dsaa/tree/master/0486-predict-the-winner) |
+| [1927-sum-game](https://github.com/RajsekharNandi/dsaa/tree/master/1927-sum-game) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/RajsekharNandi/dsaa/tree/master/0486-predict-the-winner) |
+## Greedy
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/RajsekharNandi/dsaa/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
