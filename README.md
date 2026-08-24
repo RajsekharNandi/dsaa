@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/RajsekharNandi/dsaa/tree/master/0486-predict-the-winner) |
+| [1872-stone-game-viii](https://github.com/RajsekharNandi/dsaa/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/RajsekharNandi/dsaa/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/RajsekharNandi/dsaa/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Array
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/RajsekharNandi/dsaa/tree/master/0486-predict-the-winner) |
 | [1656-design-an-ordered-stream](https://github.com/RajsekharNandi/dsaa/tree/master/1656-design-an-ordered-stream) |
+| [1872-stone-game-viii](https://github.com/RajsekharNandi/dsaa/tree/master/1872-stone-game-viii) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/RajsekharNandi/dsaa/tree/master/0486-predict-the-winner) |
+| [1872-stone-game-viii](https://github.com/RajsekharNandi/dsaa/tree/master/1872-stone-game-viii) |
 ## Recursion
 |  |
 | ------- |
@@ -57,17 +60,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/RajsekharNandi/dsaa/tree/master/0486-predict-the-winner) |
+| [1872-stone-game-viii](https://github.com/RajsekharNandi/dsaa/tree/master/1872-stone-game-viii) |
 ## Game Theory
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/RajsekharNandi/dsaa/tree/master/0486-predict-the-winner) |
+| [1872-stone-game-viii](https://github.com/RajsekharNandi/dsaa/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/RajsekharNandi/dsaa/tree/master/1927-sum-game) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/RajsekharNandi/dsaa/tree/master/0486-predict-the-winner) |
+| [1872-stone-game-viii](https://github.com/RajsekharNandi/dsaa/tree/master/1872-stone-game-viii) |
 ## Greedy
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/RajsekharNandi/dsaa/tree/master/1927-sum-game) |
+## Prefix Sum
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/RajsekharNandi/dsaa/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
