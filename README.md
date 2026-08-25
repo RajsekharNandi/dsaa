@@ -14,11 +14,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/RajsekharNandi/dsaa/tree/master/0486-predict-the-winner) |
 | [1656-design-an-ordered-stream](https://github.com/RajsekharNandi/dsaa/tree/master/1656-design-an-ordered-stream) |
 | [1872-stone-game-viii](https://github.com/RajsekharNandi/dsaa/tree/master/1872-stone-game-viii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/RajsekharNandi/dsaa/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
 | ------- |
 | [0771-jewels-and-stones](https://github.com/RajsekharNandi/dsaa/tree/master/0771-jewels-and-stones) |
 | [1656-design-an-ordered-stream](https://github.com/RajsekharNandi/dsaa/tree/master/1656-design-an-ordered-stream) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/RajsekharNandi/dsaa/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Design
 |  |
 | ------- |
