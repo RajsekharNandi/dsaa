@@ -95,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/RajsekharNandi/dsaa/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/RajsekharNandi/dsaa/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
