@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/RajsekharNandi/dsaa/tree/master/0486-predict-the-winner) |
 | [1656-design-an-ordered-stream](https://github.com/RajsekharNandi/dsaa/tree/master/1656-design-an-ordered-stream) |
 | [1872-stone-game-viii](https://github.com/RajsekharNandi/dsaa/tree/master/1872-stone-game-viii) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RajsekharNandi/dsaa/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/RajsekharNandi/dsaa/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
@@ -106,4 +107,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/RajsekharNandi/dsaa/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+## Union-Find
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RajsekharNandi/dsaa/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Sorting
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/RajsekharNandi/dsaa/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
