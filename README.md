@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/RajsekharNandi/dsaa/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/RajsekharNandi/dsaa/tree/master/0118-pascals-triangle) |
 | [0486-predict-the-winner](https://github.com/RajsekharNandi/dsaa/tree/master/0486-predict-the-winner) |
 | [1656-design-an-ordered-stream](https://github.com/RajsekharNandi/dsaa/tree/master/1656-design-an-ordered-stream) |
 | [1872-stone-game-viii](https://github.com/RajsekharNandi/dsaa/tree/master/1872-stone-game-viii) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/RajsekharNandi/dsaa/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/RajsekharNandi/dsaa/tree/master/0118-pascals-triangle) |
 | [0486-predict-the-winner](https://github.com/RajsekharNandi/dsaa/tree/master/0486-predict-the-winner) |
 | [1872-stone-game-viii](https://github.com/RajsekharNandi/dsaa/tree/master/1872-stone-game-viii) |
 ## Recursion
