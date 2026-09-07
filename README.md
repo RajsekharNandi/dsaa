@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0115-distinct-subsequences](https://github.com/RajsekharNandi/dsaa/tree/master/0115-distinct-subsequences) |
 | [0771-jewels-and-stones](https://github.com/RajsekharNandi/dsaa/tree/master/0771-jewels-and-stones) |
+| [0940-distinct-subsequences-ii](https://github.com/RajsekharNandi/dsaa/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/RajsekharNandi/dsaa/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/RajsekharNandi/dsaa/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/RajsekharNandi/dsaa/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/RajsekharNandi/dsaa/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/RajsekharNandi/dsaa/tree/master/0118-pascals-triangle) |
 | [0486-predict-the-winner](https://github.com/RajsekharNandi/dsaa/tree/master/0486-predict-the-winner) |
+| [0940-distinct-subsequences-ii](https://github.com/RajsekharNandi/dsaa/tree/master/0940-distinct-subsequences-ii) |
 | [1872-stone-game-viii](https://github.com/RajsekharNandi/dsaa/tree/master/1872-stone-game-viii) |
 ## Recursion
 |  |
