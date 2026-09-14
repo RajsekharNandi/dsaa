@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/RajsekharNandi/dsaa/tree/master/0486-predict-the-winner) |
+| [0836-rectangle-overlap](https://github.com/RajsekharNandi/dsaa/tree/master/0836-rectangle-overlap) |
 | [1872-stone-game-viii](https://github.com/RajsekharNandi/dsaa/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/RajsekharNandi/dsaa/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/RajsekharNandi/dsaa/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -182,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/RajsekharNandi/dsaa/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/RajsekharNandi/dsaa/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
